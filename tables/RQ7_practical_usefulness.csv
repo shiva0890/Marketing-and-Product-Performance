@@ -1,0 +1,7 @@
+Model,R2 Score,Interpretability (1-5),Robustness (CV stability),Train Time (s)
+Linear Regression,-0.003,5,0.998,0.037
+Decision Tree,-1.071,4,0.9472,0.321
+Random Forest,-0.029,3,0.9926,21.683
+XGBoost,-0.155,2,0.99,0.673
+SVM,-0.002,2,0.9997,3.032
+k-NN,-0.182,3,0.9839,0.001

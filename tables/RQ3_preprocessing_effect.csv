@@ -1,0 +1,5 @@
+Strategy,MAE,RMSE,R2
+Raw Data (fill 0),25016.1904,28964.0431,-0.0288
+Median Imputation,25016.1904,28964.0431,-0.0288
+Imputation + Scaling,25019.0251,28964.8929,-0.0289
+Full Pipeline,25019.0251,28964.8929,-0.0289

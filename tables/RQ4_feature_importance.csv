@@ -1,0 +1,11 @@
+Feature,Importance,Rank,Direction
+Customer_ID,0.0781,1,Positive
+Budget,0.0777,2,Negative
+Bundle_Price,0.0769,3,Negative
+Bundle_ID,0.0765,4,Negative
+Product_ID,0.076,5,Negative
+Flash_Sale_ID,0.0758,6,Negative
+Campaign_ID,0.0756,7,Negative
+Clicks,0.0752,8,Negative
+Conversions,0.0747,9,Positive
+ROI,0.0717,10,Positive
